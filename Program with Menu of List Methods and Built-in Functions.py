@@ -135,7 +135,7 @@ def main():
         elif choice == 9:
             largest = max(array1)
             print("\nSuccessfully found the largest element in the array.")
-            print(f"\nThe smallest element is {largest}.")
+            print(f"\nThe largest element is {largest}.")
 
         elif choice == 10:
             try:
