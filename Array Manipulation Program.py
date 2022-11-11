@@ -31,8 +31,6 @@ def print_menu():
     print("\t\t\t12 -> End the program")
     print("*" * 70)
 
-loop = True
-
 def main():
     try:
         print_menu()
